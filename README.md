@@ -23,7 +23,7 @@
 <h3 align="center">Video game enthusiast • Lover of science fiction • Problem solver</h3>
 
 <p align="center">  
-Hey! The name's Erich. I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
+Hey! The name's Erich. I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this amazing community.
 </p>
 <br />
 <!--------------------- Interests ---------------------->
