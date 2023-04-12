@@ -33,7 +33,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 </p>
 <br />
 <!--------------------- Technologies ---------------------->
-<h3 align="center">Technologies</h3>
+<h3 align="center"><ins>Technologies</ins></h3>
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
 <p align="center">
