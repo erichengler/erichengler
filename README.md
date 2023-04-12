@@ -1,7 +1,7 @@
-<!--------------------- Introduction ---------------------->
-<h2 align="center">Hello and welcome to Erich Engler's Github Page!</h2>
+<!--------------------- Intro ---------------------->
+<h2 align="center">Hello and welcome to Erich Engler's Github page!</h2>
 
-<!--------------------- Social Links ---------------------->
+<!--------------------- Links ---------------------->
 <p align="center">
     <a href="https://github.com/erichengler" target="_blank" rel="noopener noreferrer">
       <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
@@ -61,3 +61,6 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
 <p>
+
+<!--------------------- Outro ---------------------->
+<h3 align="center">Keelah Se'lai, traveller!</h3>
