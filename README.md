@@ -28,7 +28,7 @@ I am currently enrolled in a Full Stack Software Development course at Prime Dig
 </p>
 <br />
 <!--------------------- Technologies ---------------------->
-<h3 align="center">🤖 Technologies</h3>
+<h3 align="center">Technologies</h3>
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
 <p align="center">
