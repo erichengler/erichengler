@@ -26,16 +26,14 @@
 Hey! The name's Erich. I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
 </p>
 <br />
-<!--------------------- Various Interests ---------------------->
+<!--------------------- Interests ---------------------->
 <h3 align="center">Interests</h3>
-<br />
 <p align="center">
     &bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 👽 <b>Science Fiction</b> &nbsp;&nbsp;&bull; 🎮 <b>Gaming</b> &nbsp;&nbsp;&bull; 😆 <b>Comedy</b> &nbsp;&nbsp;&bull; 🙈 <b>Philosophy</b> &nbsp;&nbsp;&bull; 💥 <b>Physics</b> <br /> 🐒 <b>Evolutionary Biology</b> &nbsp;&nbsp;&bull; 🐱 <b>Cats</b> &nbsp;&nbsp;&bull; ⛺ <b>Camping</b> &nbsp;&nbsp;&bull; 🎶 <b>Trance Music</b> &nbsp;&nbsp;&bull; 🚙 <b>Road Trips</b>
 </p>
 <br />
 <!--------------------- Technologies ---------------------->
 <h3 align="center">Technologies</h3>
-<br />
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
 <p align="center">
