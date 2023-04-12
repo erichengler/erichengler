@@ -24,8 +24,8 @@
 <!--------------------- About Me ---------------------->
 <p align="center">
 Video game enthusiast • Lover of science fiction • Problem solver 
-<br />
-<br />
+
+    
 I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
 </p>
 <br />
