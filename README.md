@@ -20,10 +20,11 @@
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c49b196-7b63-404c-9ab6-d93f5be93b0a/d91xm9v-91fd0818-9d6b-48f0-b803-88268ad64de2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjNDliMTk2LTdiNjMtNDA0Yy05YWI2LWQ5M2Y1YmU5M2IwYVwvZDkxeG05di05MWZkMDgxOC05ZDZiLTQ4ZjAtYjgwMy04ODI2OGFkNjRkZTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NNniqWSRhljHyz4s3fJBvTF7zOG80PwjHjeOOM9RQ7I" height="500px">
     </a>
 </p>
+<br />
 <!--------------------- About Me ---------------------->
 <p align="center">
 Video game enthusiast • Lover of science fiction • Problem solver 
-
+<br />
 I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
 </p>
 <br />
