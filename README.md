@@ -25,7 +25,7 @@
 Video game enthusiast • Lover of science fiction • Problem solver 
 
     
-I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
+Hey! The name's Erich. I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
 </p>
 <br />
 <!--------------------- Various Interests ---------------------->
