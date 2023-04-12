@@ -1,12 +1,15 @@
 <!--------------------- Introduction ---------------------->
 <h2 align="center">Hello and welcome to Erich Engler's Github Page!</h2>
 
+<p align="center">
 Video game enthusiast • Lover of science fiction • Problem solver 
 
 I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this community.
+</p>
 
 
 <!--------------------- Social Links ---------------------->
+<h3 align="center">Contact<h3>
 <p align="center">
     <a href="https://github.com/erichengler" target="_blank" rel="noopener noreferrer">
       <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
