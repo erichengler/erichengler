@@ -66,4 +66,4 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <p>
 <br />
 <!--------------------- Outro ---------------------->    
-<h3 align="center">Keelah Se'lai traveller!</h4>
+<h3 align="center">Keelah Se'lai, traveller!</h4>
