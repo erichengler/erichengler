@@ -32,7 +32,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
     &bull; 💻 <b>Full Stack Development</b> &nbsp;&nbsp;&bull; 👽 <b>Science Fiction</b> &nbsp;&nbsp;&bull; 🎮 <b>Gaming</b> &nbsp;&nbsp;&bull; 🎶 <b>Trance Music</b> &nbsp;&nbsp;&bull; 🙈 <b>Philosophy</b>
 </p>
 <p align="center">
-&bull; 🐱 <b>Cats</b> &nbsp;&nbsp;&bull; 🐒 <b>Evolutionary Biology</b> &nbsp;&nbsp;&bull; 💥 <b>Physics</b> &nbsp;&nbsp;&bull; 😆 <b>Comedy</b> &nbsp;&nbsp;&bull; ⛺ <b>Camping</b> &nbsp;&nbsp;&bull; 🚙 <b>Road Trips</b>
+&bull; 🐱 <b>Cats</b> &nbsp;&nbsp;&bull; 🐒 <b>Biology</b> &nbsp;&nbsp;&bull; 💥 <b>Physics</b> &nbsp;&nbsp;&bull; 😆 <b>Comedy</b> &nbsp;&nbsp;&bull; ⛺ <b>Camping</b> &nbsp;&nbsp;&bull; 🔭 <b>Astronomy</b> &nbsp;&nbsp;&bull; 🚙 <b>Road Trips</b>
 </p>
 <br />
 <!--------------------- Technologies ---------------------->
