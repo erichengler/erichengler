@@ -64,10 +64,8 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
 </p>
 <!--------------------- Stats ---------------------->
-<h4 align="center">Stats</h4>
-<hr />
 <p align="center">
- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">    <img  alt="Erich Engler's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erichengler?cardType=github&theme=prussian&preferLogin=false" />  </a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="Erich Engler's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erichengler?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 </p>
 
     
