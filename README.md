@@ -64,6 +64,6 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
 </p>
 <!--------------------- Stats ---------------------->
-[![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=erichengler)](https://github.com/anuraghazra/github-readme-stats)
+[![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=erichengler)](https://github.com/erichengler/github-readme-stats)
     
     
