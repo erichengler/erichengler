@@ -65,5 +65,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 </p>
 <!--------------------- Stats ---------------------->
 ![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=erichengler)(https://github.com/erichengler/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
     
     
