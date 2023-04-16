@@ -67,8 +67,8 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <h4 align="center">Stats</h4>
 <hr />
 <p align="center">
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/erichengler)](https://git.io/awesome-stats-card)
-    </p>
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">    <img  alt="Erich Engler's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erichengler?cardType=github&theme=prussian&preferLogin=false" />  </a>
+</p>
 
     
     
