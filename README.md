@@ -2,16 +2,12 @@
 <h2 align="center">Hello and welcome to Erich Engler's Github page!</h2>
 
 <!--------------------- Links ---------------------->
-<p align="center">
-    <a href="https://github.com/erichengler" target="_blank" rel="noopener noreferrer">
-      <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
-    </a>
-    <a href="mailto:erichjohnengler@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/erichengler/" target="_blank" rel="noopener noreferrer">
-      <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
-    </a>
+<a href="mailto:erichjohnengler@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"                   height="30px" width="100px"/>
+</a>
+<a href="https://www.linkedin.com/in/erichengler/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-                      badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
+</a>
 </p>
 <!--------------------- Image ---------------------->
 <p align="center">
