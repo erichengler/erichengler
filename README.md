@@ -62,9 +62,9 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 </p>
 <br /><br />
 <!--------------------- Stats ---------------------->
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=erichengler)](https://git.io/streak-stats)
-</p>
+
 <br />
 
     
