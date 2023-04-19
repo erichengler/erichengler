@@ -2,6 +2,7 @@
 <h2 align="center">Hello and welcome to Erich Engler's Github page!</h2>
 
 <!--------------------- Links ---------------------->
+<p align="center">
 <a href="mailto:erichjohnengler@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"                   height="30px" width="100px"/>
 </a>
