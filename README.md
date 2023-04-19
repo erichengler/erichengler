@@ -70,7 +70,5 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 </p>
 <br />
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra
-
     
     
