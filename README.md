@@ -63,7 +63,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <br /><br />
 <!--------------------- Stats ---------------------->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)]
 <br />
 
     
