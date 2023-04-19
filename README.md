@@ -68,7 +68,6 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
     <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichengler&layout=compact&theme=tokyonight" />
 </p>
-<br />
 
     
     
