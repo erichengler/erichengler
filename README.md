@@ -63,7 +63,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <br /><br />
 <!--------------------- Stats ---------------------->
 <p align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="Erich Engler's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erichengler?cardType=github&theme=github-dark&preferLogin=false" />  </a>
+<img  alt="Erich Engler's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erichengler?cardType=github&theme=github-dark&preferLogin=false" />
 </p>
 <br />
 
