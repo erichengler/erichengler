@@ -63,7 +63,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <br /><br />
 <!--------------------- Stats ---------------------->
 <p align="center">
-<img  alt="Erich Engler's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erichengler?cardType=github&theme=github-dark&preferLogin=false" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erichengler)](https://git.io/streak-stats)
 </p>
 <br />
 
