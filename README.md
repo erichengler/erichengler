@@ -60,14 +60,9 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
 </p>
-<br /><br />
+<br />
 <!--------------------- Stats ---------------------->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=erichengler&layout=compact&theme=tokyonight" />
-    <br />
-    <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichengler&layout=compact&theme=tokyonight" />
-</p>
+
 
     
     
