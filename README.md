@@ -18,7 +18,7 @@
 </p>
 <!--------------------- About Me ---------------------->
 <h3 align="center">Full Stack Developer • Video Game Enthusiast • Lover of Science Fiction</h3>
-
+<hr />
 <p align="center">  
 Hey! The name's Erich. I am currently enrolled in a Full Stack Software Development course at Prime Digital Academy and will be graduating by July, 2023. I am excited to become a part of this industry and I appreciate having so many opportunities to learn and grow in this amazing community.
 </p>
