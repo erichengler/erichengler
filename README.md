@@ -29,11 +29,11 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <p align="center">
 💻  <b>Full Stack Development</b> &nbsp;&nbsp;&bull;&nbsp; 👽 <b>Science Fiction</b> &nbsp;&nbsp;&bull;&nbsp; 🎮 <b>Video Games</b>
 <br />
-🎶 <b>Trance Music &nbsp;&nbsp;&bull;</b>🙈 <b>Philosophy</b> &nbsp;&nbsp;&bull; ⛺ <b>Camping</b> &nbsp;&nbsp;&bull; 💥 <b>Physics</b> &nbsp;&nbsp;&bull; 🐈 <b>Cats</b>
+🎶 <b>Trance Music &nbsp;&nbsp;&bull;&nbsp; </b>🙈 <b>Philosophy</b> &nbsp;&nbsp;&bull;&nbsp; ⛺ <b>Camping</b> &nbsp;&nbsp;&bull;&nbsp; 💥 <b>Physics</b> &nbsp;&nbsp;&bull;&nbsp; 🐈 <b>Cats</b>
 <br />
-👫 <b>Anthropology</b> &nbsp;&nbsp;&bull; 🔭 <b>Astronomy</b> &nbsp;&nbsp;&bull; 🐒 <b>Biology</b> &nbsp;&nbsp;&bull;  😆 <b>Comedy</b> 
+👫 <b>Anthropology</b> &nbsp;&nbsp;&bull;&nbsp; 🔭 <b>Astronomy</b> &nbsp;&nbsp;&bull;&nbsp; 🐒 <b>Biology</b> &nbsp;&nbsp;&bull;&nbsp; 😆 <b>Comedy</b> 
 <br /> 
-🚙 <b>Road Trips</b> &nbsp;&nbsp;&bull; 🔧 <b>PC Building</b> 
+🚙 <b>Road Trips</b> &nbsp;&nbsp;&bull;&nbsp; 🔧 <b>PC Building</b> 
 </p>
 <br />
 <!--------------------- Technologies ---------------------->
