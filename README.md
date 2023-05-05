@@ -27,7 +27,7 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <h3 align="center">Interests</h3>
 <hr />
 <p align="center">
-💻  <b>Full Stack Development</b> &nbsp;&nbsp;&bull;&nbsp; 👽 <b>Science Fiction</b> &nbsp;&nbsp;&bull;&nbsp; 🎮 <b>Video Games</b>
+💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 👽 <b>Science Fiction</b> &nbsp;&bull;&nbsp; 🎮 <b>Video Games</b>
 <br />
 🎶 <b>Trance Music &nbsp;&nbsp;&bull;&nbsp; </b>🙈 <b>Philosophy</b> &nbsp;&nbsp;&bull;&nbsp; ⛺ <b>Camping</b> &nbsp;&nbsp;&bull;&nbsp; 💥 <b>Physics</b> &nbsp;&nbsp;&bull;&nbsp; 🐈 <b>Cats</b>
 <br />
