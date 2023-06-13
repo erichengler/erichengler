@@ -27,13 +27,8 @@ Hey! The name's Erich. I am currently enrolled in a Full Stack Software Developm
 <h3 align="center">Interests</h3>
 <hr />
 <p align="center">
-💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 👽 <b>Science Fiction</b> &nbsp;&bull;&nbsp; 🎮 <b>Video Games</b>
-<br />
-🎶 <b>Trance Music &nbsp;&bull;&nbsp; </b>🙈 <b>Philosophy</b> &nbsp;&bull;&nbsp; ⛺ <b>Camping</b> &nbsp;&bull;&nbsp; 💥 <b>Physics</b> &nbsp;&bull;&nbsp; 🐈 <b>Cats</b>
-<br />
-👫 <b>Anthropology</b> &nbsp;&bull;&nbsp; 🔭 <b>Astronomy</b> &nbsp;&bull;&nbsp; 🐒 <b>Biology</b> &nbsp;&bull;&nbsp; 😆 <b>Comedy</b> 
-<br /> 
-🚙 <b>Road Trips</b> &nbsp;&bull;&nbsp; 🔧 <b>PC Building</b> 
+💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 👽 <b>Science Fiction</b> &nbsp;&bull;&nbsp; 🎮 <b>Video Games</b> &nbsp;&bull;&nbsp;
+🎶 <b>Trance Music &nbsp;&bull;&nbsp; </b>🙈 <b>Philosophy</b> &nbsp;&bull;&nbsp; ⛺ <b>Camping</b> &nbsp;&bull;&nbsp; 💥 <b>Physics</b> &nbsp;&bull;&nbsp; 🐈 <b>Cats</b> &nbsp;&bull;&nbsp; 👫 <b>Anthropology</b> &nbsp;&bull;&nbsp; 🔭 <b>Astronomy</b> &nbsp;&bull;&nbsp; 🐒 <b>Biology</b> &nbsp;&bull;&nbsp; 😆 <b>Comedy</b> &nbsp;&bull;&nbsp; 🚙 <b>Road Trips</b> &nbsp;&bull;&nbsp; 🔧 <b>PC Building</b> 
 </p>
 <br />
 <!--------------------- Technologies ---------------------->
