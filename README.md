@@ -62,8 +62,13 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
 </p>
+<!--------------------- Learn Next ---------------------->
+<h4 align="center">Learn Next</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-430098?style=plastic&logo=github" height="22px"/>
+</p>
 <br />
-<!--------------------- Stats ---------------------->
+
 
 
     
