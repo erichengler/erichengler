@@ -38,7 +38,7 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
 <h4 align="center">Frontend</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
-    <img src="https://img.shields.io/badge/TypeScript-8A2BE2" height="22px"/>
+    <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=plastic" height="22px"/>
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" height="22px"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/React_Router-CA4225?style=plastic&logo=react-router&logoColor=white" height="22px"/>
