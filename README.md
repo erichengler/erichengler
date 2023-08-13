@@ -66,8 +66,9 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
 <h4 align="center">Learn Next</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-430098?style=plastic&logo=python&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Vue.js-339933?style=plastic&logo=vue&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/Vue.js-339933?style=plastic&logo=vue.js&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Angular-red?style=plastic&logo=angular&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/PHP-purple?style=plastic&logo=php&logoColor=white" height="22px"/>
 </p>
 <br />
 
