@@ -63,11 +63,12 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
 <!--------------------- Learn Next ---------------------->
 <h3 align="center">Learn Next</h3>
 <hr />
+<p align="center">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Python-430098?style=plastic&logo=python&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Java-orange?style=plastic&logo=java&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Ruby-maroon?style=plastic&logo=ruby&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/PHP-purple?style=plastic&logo=php&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="22px"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="22px"/>
