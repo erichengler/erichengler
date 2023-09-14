@@ -35,7 +35,6 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
 <h3 align="center">Technologies</h3>
 <hr />
 <!--------------------- Frontend ---------------------->
-<h4 align="center">Frontend</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
     <img src="https://img.shields.io/badge/TypeScript-8A2BE2?style=plastic&logo=typescript&logoColor=white" height="22px"/>
@@ -45,7 +44,6 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" height="22px"/>
 </p>
 <!--------------------- Backend ---------------------->
-<h4 align="center">Backend</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="22px"/>
@@ -53,7 +51,6 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
     <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" height="22px"/>
 </p>
 <!--------------------- Tools ---------------------->
-<h4 align="center">Tools</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height="22px"/>
