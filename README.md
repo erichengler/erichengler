@@ -70,7 +70,8 @@ Hey! The name's Erich. I recently graduated from a Full Stack Software Developme
     <img src="https://img.shields.io/badge/Ruby-maroon?style=plastic&logo=ruby&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/PHP-purple?style=plastic&logo=php&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="22px"/>
-    <br /><br />
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Vue-339933?style=plastic&logo=vue.js&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Angular-red?style=plastic&logo=angular&logoColor=white" height="22px"/>
